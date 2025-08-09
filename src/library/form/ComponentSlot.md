@@ -8,13 +8,13 @@
 
 除了自定义表单分组，我们也可以通过 `[Component].slot` 自定义表单各组件。例:
 
-<p style="margin-left: 20px">
+<div style="margin-left: 20px">
 
 - **AInput 输入框**
 - **ASelect 下拉框**
 - **ADatePicker 年月日**
 
-</p>
+</div>
 
 </template>
   
